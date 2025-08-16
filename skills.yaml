@@ -1,0 +1,95 @@
+# Curated skills list used for simple keyword matching & suggestion buckets
+core_ml:
+  - machine learning
+  - deep learning
+  - neural networks
+  - supervised learning
+  - unsupervised learning
+  - reinforcement learning
+  - model deployment
+  - feature engineering
+  - model monitoring
+  - mlops
+  - experiment tracking
+  - mlflow
+  - model registry
+  - data versioning
+  - dvc
+  - hyperparameter tuning
+  - cross validation
+  - gradient boosting
+  - xgboost
+  - lightgbm
+nlp:
+  - nlp
+  - natural language processing
+  - transformers
+  - bert
+  - roberta
+  - gpt
+  - tokenization
+  - named entity recognition
+  - text classification
+  - sentiment analysis
+  - question answering
+  - word embeddings
+  - sentence embeddings
+  - sentence-transformers
+  - spacy
+cv:
+  - computer vision
+  - opencv
+  - cnn
+  - resnet
+  - yolov5
+  - segmentation
+  - object detection
+  - image classification
+  - siamese networks
+data:
+  - python
+  - pandas
+  - numpy
+  - sql
+  - pyspark
+  - spark
+  - hive
+  - airflow
+  - dbt
+  - etl
+  - data pipeline
+  - data engineering
+  - data warehousing
+  - bigquery
+  - redshift
+  - snowflake
+infra:
+  - docker
+  - kubernetes
+  - aws
+  - gcp
+  - azure
+  - lambda
+  - sagemaker
+  - vertex ai
+  - cloud run
+  - grpc
+  - fastapi
+  - flask
+  - streamlit
+  - ci/cd
+  - github actions
+tools_lang:
+  - git
+  - linux
+  - bash
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - pytorch
+  - tensorflow
+  - onnx
+  - quantization
+  - pruning
+  - huggingface
+  - docker compose
