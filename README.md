@@ -1,5 +1,7 @@
 # 🧠 AI Resume ATS Analyzer
 
+🚀 **Live Demo**: https://ai-ats-resumescreener.streamlit.app/
+
 An AI-powered Applicant Tracking System (ATS) Resume Analyzer built with **Python** and **Streamlit** that evaluates resumes against job descriptions using advanced **NLP** and **Semantic similarity** (Sentence-BERT).
 
 Maximize your resume's potential by getting insights into how well your background matches job requirements, and receive actionable recommendations for improvement.
