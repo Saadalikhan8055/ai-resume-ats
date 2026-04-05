@@ -86,6 +86,19 @@ The app will open in your browser (typically at `http://localhost:8501`)
    - **Texts**: Raw extracted text for verification
    - **Download Report**: Export results as JSON
 
+## ☁️ Streamlit Community Cloud
+
+If Streamlit Cloud shows `Unable to deploy`, the app is usually not connected to a published GitHub repository yet. Use this setup:
+
+1. Push this repository to GitHub.
+2. In Streamlit Community Cloud, choose **New app** or **Reconnect**.
+3. Select this repo: `https://github.com/Saadalikhan8055/ai-resume-ats.git`
+4. Set the branch to `main`.
+5. Set the main file path to `app.py`.
+6. Deploy again.
+
+If the app is private, make sure Streamlit Cloud has access to the GitHub repo.
+
 ---
 
 ## 📁 Project Structure
